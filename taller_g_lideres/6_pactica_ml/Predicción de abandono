@@ -1,0 +1,18 @@
+digraph {
+	A [label="Predicción de abandono"]
+	B [label="Contextualización"]
+	C [label="Obtención de datos"]
+	D [label="Síntesis Tabulares"]
+	E [label="Visualizacion 
+ atributos categóricos"]
+	F [label="Visualización de 
+ variables cuantitativas continuas"]
+	G [label="Análisis de correlaciones"]
+	H [label="Correlaciones entre targent categorico
+ y predictores continuos"]
+	A -> B
+	B -> C
+	C -> D
+	D -> E
+	E -> F
+}
