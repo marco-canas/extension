@@ -1,0 +1,11 @@
+digraph {
+	A [label="Codificacion Variables Categoricas"]
+	B [label="Variables categóricas ordinales"]
+	C [label="Variables categóricas no ordinales"]
+	D [label="No ordinales de pocas subcategorias"]
+	E [label="No ordinales de muchas subcategorias"]
+	A -> B
+	A -> C
+	C -> D
+	C -> E
+}
