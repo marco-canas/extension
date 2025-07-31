@@ -5,8 +5,8 @@
 **Enfoque:** Soluciones basadas en **machine learning** para problemas locales, con impacto social y económico.  
 
 #### **1. Servicios Principales**  
-**A. Sector Agrícola (Cacao, Minería Sostenible)**  
-- **Predicción de cosechas:** Modelos para optimizar rendimiento de cacao usando datos climáticos y de suelo.  
+**A. Sector Agrícola (Arroz, Minería Sostenible)**  
+- **Predicción de cosechas:** Modelos para optimizar rendimiento de arroz usando datos climáticos y de suelo.  
 - **Detección de minería ilegal:** Análisis de imágenes satelitales con **redes neuronales (YOLO, TensorFlow)**.  
 
 **B. Salud Pública**  
